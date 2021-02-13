@@ -1,7 +1,7 @@
 Package: keyToEnglish
 Type: Package
 Title: Convert Data to Memorable Phrases
-Version: 0.2.0
+Version: 0.2.1
 Author: Max Candocia
 Maintainer: Max Candocia <maxcandocia@gmail.com>
 URL: https://github.com/mcandocia/keyToEnglish
@@ -15,6 +15,6 @@ Depends: R (>= 3.4.0)
 RoxygenNote: 7.1.1
 Suggests: testthat
 NeedsCompilation: no
-Packaged: 2020-10-01 23:19:38 UTC; mscan
+Packaged: 2021-01-24 03:11:34 UTC; mscan
 Repository: CRAN
-Date/Publication: 2020-10-02 04:22:10 UTC
+Date/Publication: 2021-02-13 17:50:02 UTC
